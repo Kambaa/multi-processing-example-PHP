@@ -1,0 +1,12 @@
+{
+  "name": "Kambaa/multi-processing-example-PHP",
+  "description": "multi processing example",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Yusuf Gündüz",
+      "email": "yusuf.gunduz@gmail.com"
+    }
+  ],
+}
